@@ -1712,3 +1712,106 @@ paint if
 push stop
 paint
 paint
+==============================
+
+40x40
+push random
+random
+push start
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+push stop
+paint
+paint

@@ -756,3 +756,110 @@ paint if
 push stop
 paint
 paint
+==============================
+
+40x40
+push mouce to change
+change(26,20)
+push start
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+push mouce to change
+can't change
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+push stop
+paint
+paint
+push mouce to change
+change(25,5)
+push mouce to change
+change(28,16)
+push mouce to change
+change(24,8)
+push mouce to change
+change(26,14)
+push random
+random
+push start
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+push stop
+paint
+paint
+push step
+step
+push step
+step
+push step
+step
+push step
+step
+push step
+step
+push step
+step
+push reset
+reset
