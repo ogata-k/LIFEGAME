@@ -1,0 +1,758 @@
+==============================
+
+40x40
+push mouce to change
+change(13,7)
+push mouce to change
+change(14,8)
+push mouce to change
+change(14,8)
+push mouce to change
+change(14,8)
+push mouce to change
+change(14,9)
+push mouce to change
+change(13,9)
+push mouce to change
+change(15,8)
+push start
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+push stop
+paint
+paint
+push random
+random
+push start
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+push stop
+paint
+paint
+==============================
+
+40x40
+push random
+random
+push start
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+==============================
+
+40x40
+push mouce to change
+change(18,14)
+push random
+random
+push start
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+push stop
+paint
+paint
+==============================
+
+40x40
+push random
+random
+push start
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+push stop
+paint
+paint
+push mouce to change
+change(29,19)
+push random
+random
+push start
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+push stop
+paint
+paint
+push reset
+reset
+==============================
+
+40x40
+push random
+random
+push start
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+push stop
+paint
+paint

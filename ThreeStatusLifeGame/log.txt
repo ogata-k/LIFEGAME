@@ -1,0 +1,1714 @@
+==============================
+
+40x40
+==============================
+
+40x40
+==============================
+
+40x40
+push random
+random
+push start
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+push stop
+paint
+paint
+==============================
+
+40x40
+push mouce to change
+change(5,35)
+make wall
+make wall from (5,28)
+push mouce to change
+change(5,29)
+push mouce to change
+change(5,29)
+push mouce to change
+change(5,28)
+==============================
+
+40x40
+push mouce to change
+change(9,25)
+push mouce to change
+change(18,14)
+push mouce to change
+change(22,14)
+push random
+random
+push start
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+push stop
+paint
+paint
+==============================
+
+40x40
+push mouce to change
+change(14,18)
+push random
+random
+push start
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+push stop
+paint
+paint
+==============================
+
+40x40
+make wall
+make wall from (13,25)
+make wall
+make wall from (16,25)
+make wall
+make wall from (16,25)
+make wall
+make wall from (16,25)
+make wall
+make wall from (16,25)
+make wall
+make wall from (16,25)
+push mouce to change
+change(16,25)
+push mouce to change
+change(13,25)
+==============================
+
+40x40
+push random
+random
+push start
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+push stop
+paint
+paint
+push step
+step
+push step
+step
+push random
+random
+push start
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+paint
+paint if
+push stop
+paint
+paint
